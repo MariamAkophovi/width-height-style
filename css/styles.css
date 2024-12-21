@@ -1,0 +1,8 @@
+img {
+    width: 100;
+}
+h3 {
+    
+    background-image: url('/img_girl.jpg');
+    background-repeat: no-repeat;
+}
